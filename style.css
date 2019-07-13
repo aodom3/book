@@ -1,0 +1,15 @@
+h1{
+color: hsl(229, 31%, 21%);
+}
+
+h2{
+    color: hsl(229, 31%, 21%);
+}
+
+body{
+    color: hsl(229, 8%, 60%);
+}
+
+button{
+    background-color: hsl(231, 69%, 60%);
+}
